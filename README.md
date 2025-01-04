@@ -1,5 +1,7 @@
 # Face Detection Project
 
+![Cover Image](img/cover.jpg)
+
 ## Features
 - Face detection in images and videos.
 - Classification of characters from the series "The Big Bang Theory".
