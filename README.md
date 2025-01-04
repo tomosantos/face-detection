@@ -1,6 +1,6 @@
 # Face Detection Project
 
-![Cover Image](img/cover.jpg)
+![Cover Image](img/cover.jpeg)
 
 ## Features
 - Face detection in images and videos.
